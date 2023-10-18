@@ -8,4 +8,5 @@ add_executable(27_4_2 main.cpp
         includes/Shape.h
         includes/Circle.h
         includes/Rect.h
-        includes/Triangle.h)
+        includes/Triangle.h
+        includes/constants.h)

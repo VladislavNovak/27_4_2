@@ -2,6 +2,7 @@
 #define INC_27_4_2_CIRCLE_H
 
 #include <iostream>
+#include "constants.h"
 #include "Shape.h"
 
 using std::string;
