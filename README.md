@@ -30,9 +30,27 @@ circle, square, triangle, rectangle, соответствующих фигура
 </details>
 
 <details open>
-<summary><span style="color:tomato;font-size:12px">INFO</span></summary>
+<summary><span style="color:tomato;font-size:12px">О программе</span></summary>
 
-[//]: # (<a href="" style="margin-left:16px">REF</a>)
+Позволяет последовательно создать любое количество объектов 
+new circle, new rectangle, new triangle.
+
+При выборе команды menu -> exit распечатываются все объекты и, 
+параллельно, очищается от них память
 
 </details>
+
+<details>
+<summary><span style="color:tomato;font-size:12px">Полезные ссылки</span></summary>
+
+[Чистые виртуальные функции и абстрактные классы](https://metanit.com/cpp/tutorial/5.12.php)
+
+[Наследование](https://metanit.com/cpp/tutorial/5.10.php)
+
+[Как посчитать высоту равнобедренного треугольника](https://poschitat.online/vysota-ravnobedrennogo-treugolnika)
+
+[Как посчитать площадь окружности](https://poschitat.online/ploshad-okruzhnosti)
+
+</details>
+
 </details>
